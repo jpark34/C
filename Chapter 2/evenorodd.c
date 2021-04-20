@@ -1,0 +1,1 @@
+// Reads an integer and prints whether it is even or odd
