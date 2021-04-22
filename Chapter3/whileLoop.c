@@ -1,4 +1,5 @@
 // Demonstrates how to properly use a while loop
+// Also how to use a post decrement on a variable
 #include "stdio.h"
 
 int main () {
